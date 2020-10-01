@@ -18,7 +18,7 @@ public class Ingredient {
     private final Type type;
 
     public static enum Type {
-       AYAM, SPESIAL, KAMBING, IKANASIN, RENDANG
+       MAIN, SEASONING, SUPPLEMENTARY
     }
 
 }
